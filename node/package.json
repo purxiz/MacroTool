@@ -1,0 +1,24 @@
+{
+  "name": "macro-tool",
+  "version": "0.0.1",
+  "description": "A self-hostable tool for macro tracking",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purxiz/MacroTool.git"
+  },
+  "author": "Nikolai Norona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purxiz/MacroTool/issues"
+  },
+  "homepage": "https://github.com/purxiz/MacroTool#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.4"
+  }
+}
